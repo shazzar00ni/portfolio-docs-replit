@@ -4,13 +4,79 @@
  <title>Senior Software Developer</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2025-05-18T21:29:55+00:00</updated>
+ <updated>2025-05-18T21:31:10+00:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
-   <name>Avic Ndugu</name>
-   <email>avicndugu1234@gmail.com</email>
+   <name>Shannon Lockett</name>
+   <email>shannon.lockett@example.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Contributing</title>
+   <link href="http://0.0.0.0:4000/2024/01/04/contributing/"/>
+   <updated>2024-01-04T00:00:00+00:00</updated>
+   <id>http://0.0.0.0:4000/2024/01/04/contributing</id>
+   <content type="html">
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: Contributing Guidelines
+—&lt;/p&gt;
+
+&lt;p&gt;Contributions are welcome and greatly appreciated! They play a vital role in driving continuous improvement and innovation.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-contribute&quot;&gt;How to Contribute&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fork the repository&lt;/li&gt;
+  &lt;li&gt;Create your feature branch&lt;/li&gt;
+  &lt;li&gt;Commit your changes&lt;/li&gt;
+  &lt;li&gt;Push to the branch&lt;/li&gt;
+  &lt;li&gt;Create a Pull Request&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For questions or feedback:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GitHub: &lt;a href=&quot;https://github.com/shazzar00ni&quot;&gt;shazzar00ni&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Email: shannon.lockett@example.com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your contributions help make this project better for everyone!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Installation</title>
+   <link href="http://0.0.0.0:4000/2024/01/03/installation/"/>
+   <updated>2024-01-03T00:00:00+00:00</updated>
+   <id>http://0.0.0.0:4000/2024/01/03/installation</id>
+   <content type="html">
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: Installation Guide
+—&lt;/p&gt;
+
+&lt;p&gt;Follow these steps to get a local copy of the repository up and running:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Clone the repository:&lt;/strong&gt;
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/shazzar00ni/portfolio.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Navigate to the project directory:&lt;/strong&gt;
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;portfolio
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Install dependencies:&lt;/strong&gt;
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For detailed usage instructions, deployment strategies, and configuration settings, refer to the documentation section.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Features And Tech</title>
@@ -35,11 +101,29 @@ title: Features &amp;amp; Technologies
 
 &lt;h2 id=&quot;technology-stack&quot;&gt;Technology Stack&lt;/h2&gt;
 
+&lt;h3 id=&quot;front-end&quot;&gt;Front-End&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Front-End:&lt;/strong&gt; HTML5, CSS3, JavaScript, React, Angular, Vue.js&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Back-End:&lt;/strong&gt; Node.js, Express, Python&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mobile Development:&lt;/strong&gt; React Native, Flutter&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tools &amp;amp; Platforms:&lt;/strong&gt; Git, GitHub, Docker, CI/CD pipelines&lt;/li&gt;
+  &lt;li&gt;HTML5, CSS3, JavaScript&lt;/li&gt;
+  &lt;li&gt;React, Angular, Vue.js&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;back-end&quot;&gt;Back-End&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Node.js, Express&lt;/li&gt;
+  &lt;li&gt;Python and related frameworks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mobile-development&quot;&gt;Mobile Development&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;React Native&lt;/li&gt;
+  &lt;li&gt;Flutter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools--platforms&quot;&gt;Tools &amp;amp; Platforms&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Git &amp;amp; GitHub&lt;/li&gt;
+  &lt;li&gt;Docker&lt;/li&gt;
+  &lt;li&gt;CI/CD pipelines&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -55,9 +139,9 @@ title: Features &amp;amp; Technologies
 title: Welcome to My Portfolio
 —&lt;/p&gt;
 
-&lt;p&gt;Welcome to my personal portfolio! I’m a senior software developer with extensive experience in both front-end and back-end web and mobile development. This portfolio showcases my projects, professional accomplishments, and technical expertise.&lt;/p&gt;
+&lt;p&gt;Welcome to my personal portfolio repository! This repository serves as a hub for showcasing my web and mobile development projects, professional accomplishments, and technical expertise. The projects contained here demonstrate modern web and mobile technologies with design principles inspired by industry leaders.&lt;/p&gt;
 
-&lt;p&gt;My work demonstrates modern web and mobile technologies with design principles inspired by industry leaders such as Artify-AI and snips.dev. Built according to best practices and modern standards, this portfolio provides insights into my development process and technical capabilities.&lt;/p&gt;
+&lt;p&gt;I am a senior software developer with extensive experience in both front-end and back-end web and mobile development. This portfolio highlights my projects, showcases my skills, and provides insights into my development process. It is built according to best practices and modern standards.&lt;/p&gt;
 </content>
  </entry>
  

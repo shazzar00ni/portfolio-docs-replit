@@ -1,4 +1,4 @@
-I"
+I"·
 <hr />
 <p>layout: post
 title: Features &amp; Technologies
@@ -16,10 +16,28 @@ title: Features &amp; Technologies
 
 <h2 id="technology-stack">Technology Stack</h2>
 
+<h3 id="front-end">Front-End</h3>
 <ul>
-  <li><strong>Front-End:</strong> HTML5, CSS3, JavaScript, React, Angular, Vue.js</li>
-  <li><strong>Back-End:</strong> Node.js, Express, Python</li>
-  <li><strong>Mobile Development:</strong> React Native, Flutter</li>
-  <li><strong>Tools &amp; Platforms:</strong> Git, GitHub, Docker, CI/CD pipelines</li>
+  <li>HTML5, CSS3, JavaScript</li>
+  <li>React, Angular, Vue.js</li>
+</ul>
+
+<h3 id="back-end">Back-End</h3>
+<ul>
+  <li>Node.js, Express</li>
+  <li>Python and related frameworks</li>
+</ul>
+
+<h3 id="mobile-development">Mobile Development</h3>
+<ul>
+  <li>React Native</li>
+  <li>Flutter</li>
+</ul>
+
+<h3 id="tools--platforms">Tools &amp; Platforms</h3>
+<ul>
+  <li>Git &amp; GitHub</li>
+  <li>Docker</li>
+  <li>CI/CD pipelines</li>
 </ul>
 :ET
