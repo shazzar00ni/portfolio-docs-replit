@@ -14,7 +14,19 @@ title: Features & Technologies
 
 ## Technology Stack
 
-- **Front-End:** HTML5, CSS3, JavaScript, React, Angular, Vue.js
-- **Back-End:** Node.js, Express, Python
-- **Mobile Development:** React Native, Flutter
-- **Tools & Platforms:** Git, GitHub, Docker, CI/CD pipelines
+### Front-End
+- HTML5, CSS3, JavaScript
+- React, Angular, Vue.js
+
+### Back-End
+- Node.js, Express
+- Python and related frameworks
+
+### Mobile Development
+- React Native
+- Flutter
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- CI/CD pipelines
