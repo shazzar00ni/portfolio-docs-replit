@@ -1,0 +1,25 @@
+I"
+<hr />
+<p>layout: post
+title: Features &amp; Technologies
+—</p>
+
+<h2 id="key-features">Key Features</h2>
+
+<ul>
+  <li><strong>Responsive Design:</strong> Crisp, clean layouts that adjust seamlessly across all devices</li>
+  <li><strong>Interactive UI/UX:</strong> Engaging and intuitive user interfaces enhanced for optimal user experience</li>
+  <li><strong>Modern Web Technologies:</strong> Leveraging the latest frameworks and libraries for high performance</li>
+  <li><strong>Mobile Optimization:</strong> Ensuring flawless performance and consistent experience on mobile devices</li>
+  <li><strong>Extensive Documentation:</strong> Detailed guides and best practices</li>
+</ul>
+
+<h2 id="technology-stack">Technology Stack</h2>
+
+<ul>
+  <li><strong>Front-End:</strong> HTML5, CSS3, JavaScript, React, Angular, Vue.js</li>
+  <li><strong>Back-End:</strong> Node.js, Express, Python</li>
+  <li><strong>Mobile Development:</strong> React Native, Flutter</li>
+  <li><strong>Tools &amp; Platforms:</strong> Git, GitHub, Docker, CI/CD pipelines</li>
+</ul>
+:ET
