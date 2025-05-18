@@ -1,8 +1,9 @@
+
 # Setup
 title: Senior Software Developer
 tagline: Web & Mobile Development Portfolio
 url: https://preview--cv-portfolio-hub.lovable.app/
-paginate: 3
+paginate: 4
 baseurl: ""
 permalink: pretty
 
@@ -26,13 +27,11 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
-
-# Specify the author for blog posts
+# Author
 author:
-  name: Avic Ndugu
-  url: https://https://twitter.com/_ndugu
-  email: avicndugu1234@gmail.com
+  name: Shannon Lockett
+  url: https://github.com/shazzar00ni
+  email: shannon.lockett@example.com
 
 # Custom vars
 version: 3.0.0
