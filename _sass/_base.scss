@@ -8,11 +8,11 @@
 
 body {
   margin: 0;
-  font-family: var(--body-font);
-  font-size: var(--body-font-size);
-  line-height: var(--body-line-height);
-  color: var(--body-color);
-  background-color: var(--body-bg);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--background-color);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
