@@ -2,7 +2,19 @@
 //
 // Styles for managing the structural hierarchy of the site.
 
-header, main, footer {
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  background: white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+main, footer {
   padding-left:1.5em;
   padding-right:1.5em;
 }
